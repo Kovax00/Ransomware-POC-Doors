@@ -1,8 +1,7 @@
 # RANS0M — POC de ransomware (Python)
 <img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/4fd80294-45f4-4fee-998b-a5657398e37d" />
 
-Prueba de concepto de ransomware para Windows construida sobre el port del
-proyecto C# **RANS0M** (https://github.com/Ixars/ransomdoors, recreación fan de
+Prueba de concepto de ransomware para Windows (recreación de
 la entidad RANSOM/A-90 de *Doors*, Roblox). Cifra de verdad (ChaCha20-Poly1305
 + RSA-OAEP), exige un rescate simbólico y apaga el equipo si no se paga.
 
