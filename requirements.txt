@@ -1,0 +1,4 @@
+Pillow>=10.0
+pystray>=0.19.5
+tkinterdnd2>=0.4.2
+cryptography>=42.0
